@@ -1,19 +1,19 @@
 Projets réalisés chez BeCode
 
-https://frederiquebaillais.github.io/Woods-404-page/
+(HTML, JavaScript, CSS) (Page 404) https://frederiquebaillais.github.io/Woods-404-page/
 
-https://frederiquebaillais.github.io/Star-Wars-Crawl/
+(HTML, CSS) (Intro Star Wars) https://frederiquebaillais.github.io/Star-Wars-Crawl/
 
-https://frederiquebaillais.github.io/restaurant-css-framework/
+(HTML, Bootstrap, SASS, CSS) (Site d'un restaurant virtuel) https://frederiquebaillais.github.io/restaurant-css-framework/
 
-https://frederiquebaillais.github.io/hangman/
+(JavaScript, CSS) (Jeu du pendu) https://frederiquebaillais.github.io/hangman/
 
-https://frederiquebaillais.github.io/CookieClicker/
+(JavaScript, CSS) (Jeu de Cookie Clicker) https://frederiquebaillais.github.io/CookieClicker/
 
-https://frederiquebaillais.github.io/ajax-simple-web-service-request/
+(Ajax, CSS) (Citations du jour) https://frederiquebaillais.github.io/ajax-simple-web-service-request/
  
-https://frederiquebaillais.github.io/PewPew/
+(JavaScript, CSS) (Jeu de space invader revisité) https://frederiquebaillais.github.io/PewPew/
   
-https://hackers-poulette-fba.herokuapp.com/
+(PHP, PHPMailer, Composer, CSS) (Formulaire de contact) https://hackers-poulette-fba.herokuapp.com/
 
-https://realtimechat-fba.herokuapp.com/
+(NodeJS, Express, Socket.io, MongoDB) (Chat en temps réel avec DB) https://realtimechat-fba.herokuapp.com/
